@@ -4,5 +4,5 @@
 
 
 
-Hi Friends,
-            This is your first project to test your basic operating knowledge of "git".Please open the file in the Repository named friends.txt. You will se the first line that reads "November 10  @TheFool". Please add the current date and your FCC-forum user name under it in the next line. "Push" it to the github and once your name is on the list you will be invited to a slack channel within 24 hours.
+
+
